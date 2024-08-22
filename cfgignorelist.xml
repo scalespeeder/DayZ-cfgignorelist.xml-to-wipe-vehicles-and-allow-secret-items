@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<ignore>
+	<type name="Bandage"></type>
+	<type name="BandanaMask_BlackPattern"></type>
+	<type name="BandanaMask_CamoPattern"></type>
+	<type name="BandanaMask_GreenPattern"></type>
+	<type name="BandanaMask_PolkaPattern"></type>
+	<type name="BandanaMask_RedPattern"></type>
+	<type name="BandanaMask_RedPattern"></type>
+	<!--<type name="CattleProd"></type>-->
+	<type name="DallasMask"></type>
+	<!--<type name="Defibrillator"></type>
+	<type name="EngineOil"></type>
+	<type name="HescoBox"></type>
+	<type name="EasterEgg"></type>-->
+	<type name="HoxtonMask"></type>
+	<!--<type name="StunBaton"></type>-->
+	<type name="TransitBus"></type>
+	<type name="WolfMask"></type>
+	<type name="Spear"></type>
+	<!--<type name="Mag_STANAGCoupled_30Rnd"></type>-->
+	<type name="Wreck_Mi8"></type>
+	
+	<!--vehicle section for vehicle wipes when needed-->
+	
+	<!-- remove remark brackets, save, restart server. replace brackets, save, restart server-->
+
+<!--	
+	<type name="CivilianSedan"></type>
+	<type name="CivilianSedan_Black"></type>
+	<type name="CivilianSedan_Wine"></type>
+	<type name="Hatchback_02"></type>
+	<type name="Hatchback_02_Black"></type>
+	<type name="Hatchback_02_Blue"></type>
+	<type name="OffroadHatchback"></type>
+	<type name="OffroadHatchback_Blue"></type>
+	<type name="OffroadHatchback_White"></type>
+	<type name="Offroad_02"></type>
+	<type name="Sedan_02"></type>
+	<type name="Sedan_02_Grey"></type>
+	<type name="Sedan_02_Red"></type>
+	<type name="Truck_01_Covered"></type>
+	<type name="Truck_01_Covered_Blue"></type>
+	<type name="Truck_01_Covered_Orange"></type>   -->
+	
+</ignore>
